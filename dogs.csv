@@ -1,0 +1,52 @@
+trainer,name,breed,sex,neutered,birth,ulna_length,jump_height
+TM800418,Dexter,Kooikerhondje,M,Y,2010-02-14,14.05,25.0
+NP950613,Jasper,Border Collie,M,Y,2011-03-28,16.56,30.0
+UF830429,Angie,Border Collie,F,Y,2014-02-06,15.22,27.5
+ZE801127,Alex,Border Collie,M,Y,2014-04-22,17.95,32.5
+DP910919,Ashley,Border Collie,F,Y,2015-01-26,18.3,32.5
+OJ941014,Bella,American Staffordshire Terrier,F,Y,2015-02-27,14.7,25.0
+HO800728,Gordon,Jack Russell Terrier,M,Y,2015-04-12,9.67,15.0
+UR870607,Negro,Mix,M,Y,2015-04-14,15.77,27.5
+RK871018,Fibo,Magyar Vizsla,M,Y,2015-05-21,17.99,32.5
+PO831026,Agnes,Border Collie,F,Y,2015-09-24,18.02,32.5
+DM850705,Speedy,Mix,M,Y,2015-11-07,14.91,25.0
+LO900912,Apollo,Border Collie,M,Y,2015-12-01,17.2,30.0
+TV860229,Riley,Mix,F,Y,2016-02-27,15.26,27.5
+WS810829,Jessie,Border Collie,F,Y,2016-04-30,17.99,32.5
+MB801205,Ted,Border Collie,M,Y,2016-05-02,16.52,30.0
+OK870605,Gerry,Australian Kelpie,M,Y,2016-09-03,14.04,25.0
+UB870201,Henry,Parson Russell terrier,M,Y,2017-04-15,12.09,20.0
+KL920415,Bailey,Border Collie,F,Y,2017-05-04,18.16,32.5
+BV810323,Enola,Border Collie,F,Y,2017-05-31,18.06,32.5
+JV990222,Punk,Small schnauzer,F,Y,2017-07-04,10.02,15.0
+AT991109,Sara,Border Collie,F,Y,2017-08-25,15.84,27.5
+UZ940717,Pax,Sheltie,M,Y,2017-09-08,14.3,25.0
+MT970826,Rex,Mix,M,N,2017-11-17,16.01,27.5
+SO990728,Dusty,Parson Russell terrier,F,Y,2017-12-21,13.03,22.5
+UO920408,Fleur,Border Collie,M,Y,2018-01-04,17.81,32.5
+IN920805,Bruno,Border Collie,M,Y,2018-03-08,17.55,32.5
+IS961124,Alfie,Australian Shepperd,F,Y,2018-03-09,16.56,30.0
+UO880828,Hector,Border Collie,M,N,2018-08-02,18.0,32.5
+TU820403,Maggie,Border Collie,F,Y,2018-09-02,16.54,30.0
+KL970722,Them,Mix,M,Y,2018-10-18,14.8,25.0
+EH831207,Rocky,Belgian shepherd - Malinois,M,Y,2018-12-22,18.29,32.5
+LZ800202,Dixie,Border Collie,M,Y,2018-12-22,14.36,25.0
+OA821108,Brix,Border Collie,M,Y,2019-01-19,17.68,32.5
+HM980701,Milo,Border Collie,M,Y,2019-06-01,17.3,30.0
+EC940409,Tyna,Border Collie,F,Y,2019-06-15,15.36,27.5
+NZ800507,Abby,Border Collie,F,Y,2019-07-16,15.46,27.5
+EH800220,Easy,Patterdale terrier,M,Y,2019-11-13,11.71,20.0
+DU050516,Falco,Border Collie,F,Y,2020-04-20,15.280000000000001,27.5
+GB900808,Sunny,Belgian shepherd - Malinois,F,Y,2020-09-10,18.0,32.5
+RF840515,Nina,Border Collie,F,Y,2020-09-20,15.38,27.5
+TC041225,Kesha,Border Collie,M,N,2020-11-16,13.6,22.5
+LF971218,Mason,Mix,M,Y,2020-11-29,15.23,27.5
+GE030417,Moon,Border Collie,F,N,2021-01-04,17.35,30.0
+DD800226,Sirius,Border Collie,M,Y,2021-01-04,17.74,32.5
+LM070408,Scotty,Mudi,M,N,2021-01-31,16.84,30.0
+RN891016,Cookies,Australian Kelpie,M,N,2021-04-09,15.12,27.5
+LP030829,Bree,Belgian shepherd - Malinois,F,Y,2021-06-11,16.73,30.0
+VK910426,Kent,Mix,M,N,2021-07-10,15.28,27.5
+MJ930217,Brooke,Border Collie,M,N,2021-10-20,17.08,30.0
+NJ890324,Bonnie,Whippet,F,N,2022-03-08,15.71,27.5
+UH881130,Hank,Mix,M,N,2022-05-02,16.28,27.5
