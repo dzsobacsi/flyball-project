@@ -32,6 +32,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-04-22,Heroltice,18,0,19.34,18.32,38,3.44,Clear,0.0
 2023-04-22,Heroltice,18,20,18.93,17.92,40,3.44,Clear,0.0
 2023-04-22,Heroltice,18,40,17.97,16.97,44,2.62,Clear,0.0
+2023-04-22,Heroltice,19,0,17.96,17.01,46,2.62,Clear,0.0
+2023-04-22,Heroltice,19,20,17.96,17.04,47,2.62,Clear,0.0
+2023-04-22,Heroltice,19,40,15.33,14.41,57,2.45,Clear,0.0
 2023-04-23,Heroltice,8,0,9.73,8.9,76,1.97,Clouds,0.0
 2023-04-23,Heroltice,8,20,10.96,10.02,73,1.97,Clouds,0.0
 2023-04-23,Heroltice,8,40,12.52,11.58,67,1.95,Clouds,0.0
@@ -65,6 +68,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-04-23,Heroltice,18,0,19.4,18.78,53,2.31,Clouds,0.0
 2023-04-23,Heroltice,18,20,19.39,18.77,53,2.31,Clouds,0.0
 2023-04-23,Heroltice,18,40,17.15,16.64,66,1.81,Clouds,0.0
+2023-04-23,Heroltice,19,0,17.2,16.44,56,1.81,Clouds,0.0
+2023-04-23,Heroltice,19,20,17.2,16.49,58,1.81,Clouds,0.0
+2023-04-23,Heroltice,19,40,15.52,15.09,75,2.26,Clouds,0.0
 2023-05-06,Žamberk,8,0,10.64,9.64,72,1.83,Rain,2.14
 2023-05-06,Žamberk,8,20,10.63,9.73,76,1.83,Rain,2.14
 2023-05-06,Žamberk,8,40,10.4,9.53,78,1.03,Rain,1.2
@@ -98,6 +104,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-05-06,Žamberk,18,0,14.64,14.04,72,3.58,Clouds,0.0
 2023-05-06,Žamberk,18,20,14.73,13.75,57,3.58,Clouds,0.0
 2023-05-06,Žamberk,18,40,13.92,13.27,73,3.03,Clouds,0.0
+2023-05-06,Žamberk,19,0,13.92,13.27,73,3.03,Clouds,0.0
+2023-05-06,Žamberk,19,20,14.0,13.0,59,3.03,Clouds,0.0
+2023-05-06,Žamberk,19,40,12.45,11.84,80,2.47,Clouds,0.0
 2023-05-07,Žamberk,8,0,7.92,5.88,86,3.21,Clouds,0.0
 2023-05-07,Žamberk,8,20,7.9,5.86,82,3.21,Clouds,0.0
 2023-05-07,Žamberk,8,40,8.02,5.9,81,3.39,Clouds,0.0
@@ -131,6 +140,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-05-07,Žamberk,18,0,8.48,5.76,73,4.83,Clouds,0.0
 2023-05-07,Žamberk,18,20,8.48,5.76,74,4.83,Clouds,0.0
 2023-05-07,Žamberk,18,40,7.8,4.92,74,4.8,Clouds,0.0
+2023-05-07,Žamberk,19,0,7.78,4.9,75,4.8,Clouds,0.0
+2023-05-07,Žamberk,19,20,7.78,4.9,76,4.8,Clouds,0.0
+2023-05-07,Žamberk,19,40,7.0,4.07,77,4.49,Clouds,0.0
 2023-05-20,Blšany,8,0,11.76,11.26,87,5.32,Clouds,0.0
 2023-05-20,Blšany,8,20,11.76,11.26,87,5.32,Clouds,0.0
 2023-05-20,Blšany,8,40,12.97,12.49,83,5.41,Clouds,0.0
@@ -164,6 +176,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-05-20,Blšany,18,0,20.69,20.62,69,4.07,Rain,1.06
 2023-05-20,Blšany,18,20,20.69,20.62,69,4.07,Rain,1.06
 2023-05-20,Blšany,18,40,20.18,20.11,71,4.46,Rain,0.62
+2023-05-20,Blšany,19,0,20.18,20.11,71,4.46,Rain,0.62
+2023-05-20,Blšany,19,20,20.18,20.11,71,4.46,Rain,0.62
+2023-05-20,Blšany,19,40,19.27,19.11,71,4.29,Clouds,0.0
 2023-05-21,Blšany,8,0,15.71,15.5,83,3.35,Clouds,0.0
 2023-05-21,Blšany,8,20,15.71,15.5,83,3.35,Clouds,0.0
 2023-05-21,Blšany,8,40,17.63,17.46,77,3.66,Clouds,0.0
@@ -197,6 +212,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-05-21,Blšany,18,0,24.1,23.85,49,4.56,Clouds,0.0
 2023-05-21,Blšany,18,20,24.1,23.85,49,4.56,Clouds,0.0
 2023-05-21,Blšany,18,40,23.11,22.86,53,4.3,Clouds,0.0
+2023-05-21,Blšany,19,0,23.11,22.86,53,4.3,Clouds,0.0
+2023-05-21,Blšany,19,20,23.11,22.86,53,4.3,Clouds,0.0
+2023-05-21,Blšany,19,40,21.85,21.58,57,3.86,Clouds,0.0
 2023-06-10,Pláně,8,0,15.71,15.24,73,3.13,Clouds,0.0
 2023-06-10,Pláně,8,20,15.71,15.19,71,3.13,Clouds,0.0
 2023-06-10,Pláně,8,40,16.97,16.58,71,4.19,Clouds,0.0
@@ -230,6 +248,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-06-10,Pláně,18,0,21.16,20.9,60,5.04,Rain,0.17
 2023-06-10,Pláně,18,20,21.13,20.92,62,5.04,Rain,0.17
 2023-06-10,Pláně,18,40,20.06,19.9,68,3.85,Rain,0.57
+2023-06-10,Pláně,19,0,20.06,19.9,68,3.85,Rain,0.57
+2023-06-10,Pláně,19,20,20.06,19.9,68,3.85,Rain,0.57
+2023-06-10,Pláně,19,40,19.37,19.24,72,3.85,Clouds,0.0
 2023-06-11,Pláně,8,0,15.93,15.35,68,2.88,Clear,0.0
 2023-06-11,Pláně,8,20,15.93,15.35,68,2.88,Clear,0.0
 2023-06-11,Pláně,8,40,17.74,17.24,64,3.48,Clear,0.0
@@ -263,6 +284,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-06-11,Pláně,18,0,21.97,21.42,46,4.46,Clouds,0.0
 2023-06-11,Pláně,18,20,21.97,21.42,46,4.46,Clouds,0.0
 2023-06-11,Pláně,18,40,21.71,21.14,46,3.96,Clear,0.0
+2023-06-11,Pláně,19,0,21.71,21.14,46,3.96,Clear,0.0
+2023-06-11,Pláně,19,20,21.71,21.14,46,3.96,Clear,0.0
+2023-06-11,Pláně,19,40,20.54,19.93,49,3.09,Clear,0.0
 2023-06-24,Prostějov,8,0,17.47,17.57,88,1.79,Clouds,0.0
 2023-06-24,Prostějov,8,20,17.43,17.53,88,2.24,Clouds,0.0
 2023-06-24,Prostějov,8,40,17.27,17.38,89,1.79,Clouds,0.0
@@ -296,6 +320,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-06-24,Prostějov,18,0,20.56,20.55,72,0.45,Clouds,0.0
 2023-06-24,Prostějov,18,20,20.56,20.5,70,0.45,Clouds,0.0
 2023-06-24,Prostějov,18,40,20.33,20.25,70,0.45,Clouds,0.0
+2023-06-24,Prostějov,19,0,20.29,20.23,71,0.45,Clouds,0.0
+2023-06-24,Prostějov,19,20,20.29,20.25,72,0.45,Clouds,0.0
+2023-06-24,Prostějov,19,40,19.9,19.77,70,0.45,Clouds,0.0
 2023-06-25,Prostějov,8,0,18.37,18.12,71,2.75,Clear,0.0
 2023-06-25,Prostějov,8,20,18.37,18.12,71,2.75,Clear,0.0
 2023-06-25,Prostějov,8,40,20.54,20.29,63,3.01,Clear,0.0
@@ -329,6 +356,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-06-25,Prostějov,18,0,25.11,25.16,57,0.89,Clouds,0.0
 2023-06-25,Prostějov,18,20,25.08,25.05,54,0.89,Clouds,0.0
 2023-06-25,Prostějov,18,40,24.47,24.49,58,0.89,Clouds,0.0
+2023-06-25,Prostějov,19,0,24.33,24.31,57,0.89,Clouds,0.0
+2023-06-25,Prostějov,19,20,24.12,24.15,60,0.45,Clouds,0.0
+2023-06-25,Prostějov,19,40,23.38,23.37,61,0.89,Clouds,0.0
 2023-07-01,Nové Město pod Smrkem,8,0,15.58,15.47,87,1.77,Clouds,0.0
 2023-07-01,Nové Město pod Smrkem,8,20,15.67,15.43,82,1.77,Clouds,0.0
 2023-07-01,Nové Město pod Smrkem,8,40,16.23,16.05,82,2.42,Rain,0.31
@@ -362,6 +392,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-07-01,Nové Město pod Smrkem,18,0,21.97,21.35,43,4.04,Clouds,0.0
 2023-07-01,Nové Město pod Smrkem,18,20,21.97,21.4,45,4.04,Clouds,0.0
 2023-07-01,Nové Město pod Smrkem,18,40,21.87,21.42,50,3.3,Clouds,0.0
+2023-07-01,Nové Město pod Smrkem,19,0,21.89,21.31,45,3.3,Clouds,0.0
+2023-07-01,Nové Město pod Smrkem,19,20,21.89,21.36,47,3.3,Clouds,0.0
+2023-07-01,Nové Město pod Smrkem,19,40,20.79,20.39,56,2.3,Clouds,0.0
 2023-07-02,Nové Město pod Smrkem,8,0,15.45,15.35,88,2.82,Rain,0.25
 2023-07-02,Nové Město pod Smrkem,8,20,15.45,15.32,87,2.82,Rain,0.25
 2023-07-02,Nové Město pod Smrkem,8,40,15.3,15.29,92,2.81,Rain,0.12
@@ -395,6 +428,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-07-02,Nové Město pod Smrkem,18,0,20.75,20.24,52,4.68,Clouds,0.0
 2023-07-02,Nové Město pod Smrkem,18,20,20.8,20.29,52,4.68,Clouds,0.0
 2023-07-02,Nové Město pod Smrkem,18,40,20.12,19.6,54,3.92,Clouds,0.0
+2023-07-02,Nové Město pod Smrkem,19,0,20.12,19.6,54,3.92,Clouds,0.0
+2023-07-02,Nové Město pod Smrkem,19,20,20.12,19.6,54,3.92,Clouds,0.0
+2023-07-02,Nové Město pod Smrkem,19,40,19.15,18.61,57,3.08,Clouds,0.0
 2023-07-15,Louňovice,8,0,20.84,20.7,66,1.97,Clear,0.0
 2023-07-15,Louňovice,8,20,20.84,20.7,66,1.97,Clear,0.0
 2023-07-15,Louňovice,8,40,23.8,23.7,56,2.4,Clear,0.0
@@ -428,6 +464,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-07-15,Louňovice,18,0,34.17,33.34,29,3.78,Clouds,0.0
 2023-07-15,Louňovice,18,20,34.17,33.34,29,3.78,Clouds,0.0
 2023-07-15,Louňovice,18,40,33.48,33.29,34,3.85,Clouds,0.0
+2023-07-15,Louňovice,19,0,33.48,33.29,34,3.85,Clouds,0.0
+2023-07-15,Louňovice,19,20,33.48,33.29,34,3.85,Clouds,0.0
+2023-07-15,Louňovice,19,40,31.67,31.49,38,4.43,Clouds,0.0
 2023-07-16,Louňovice,8,0,21.96,22.2,76,3.53,Clouds,0.0
 2023-07-16,Louňovice,8,20,21.96,22.2,76,3.53,Clouds,0.0
 2023-07-16,Louňovice,8,40,21.83,22.05,76,1.52,Clouds,0.0
@@ -461,6 +500,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-07-16,Louňovice,18,0,26.66,26.66,49,2.2,Clouds,0.0
 2023-07-16,Louňovice,18,20,26.66,26.66,49,2.2,Clouds,0.0
 2023-07-16,Louňovice,18,40,26.45,26.45,50,1.59,Clouds,0.0
+2023-07-16,Louňovice,19,0,26.45,26.45,50,1.59,Clouds,0.0
+2023-07-16,Louňovice,19,20,26.45,26.45,50,1.59,Clouds,0.0
+2023-07-16,Louňovice,19,40,25.46,25.58,58,0.62,Clouds,0.0
 2023-09-03,Blšany,8,0,15.15,15.18,94,1.13,Clouds,0.0
 2023-09-03,Blšany,8,20,15.15,15.18,94,1.13,Clouds,0.0
 2023-09-03,Blšany,8,40,16.64,16.71,90,1.1,Clouds,0.0
@@ -494,6 +536,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-09-03,Blšany,18,0,20.43,20.1,60,4.0,Clouds,0.0
 2023-09-03,Blšany,18,20,20.43,20.1,60,4.0,Clouds,0.0
 2023-09-03,Blšany,18,40,19.12,18.71,62,3.26,Clouds,0.0
+2023-09-03,Blšany,19,0,19.12,18.71,62,3.26,Clouds,0.0
+2023-09-03,Blšany,19,20,19.12,18.71,62,3.26,Clouds,0.0
+2023-09-03,Blšany,19,40,17.46,16.98,66,2.44,Clouds,0.0
 2023-09-04,Blšany,8,0,13.17,12.76,85,1.45,Clear,0.0
 2023-09-04,Blšany,8,20,13.17,12.76,85,1.45,Clear,0.0
 2023-09-04,Blšany,8,40,15.79,15.36,74,1.8,Clear,0.0
@@ -527,6 +572,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-09-04,Blšany,18,0,22.66,22.29,50,2.22,Clear,0.0
 2023-09-04,Blšany,18,20,22.66,22.29,50,2.22,Clear,0.0
 2023-09-04,Blšany,18,40,21.63,21.26,54,1.73,Clear,0.0
+2023-09-04,Blšany,19,0,21.63,21.26,54,1.73,Clear,0.0
+2023-09-04,Blšany,19,20,21.63,21.26,54,1.73,Clear,0.0
+2023-09-04,Blšany,19,40,18.57,18.28,69,1.93,Clear,0.0
 2023-09-16,Litomyšl,8,0,13.78,13.82,100,4.42,Clear,0.0
 2023-09-16,Litomyšl,8,20,13.78,13.82,100,4.42,Clear,0.0
 2023-09-16,Litomyšl,8,40,15.82,16.07,100,4.68,Clear,0.0
@@ -560,6 +608,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-09-16,Litomyšl,18,0,22.44,23.35,100,4.09,Clear,0.0
 2023-09-16,Litomyšl,18,20,22.44,23.35,100,4.09,Clear,0.0
 2023-09-16,Litomyšl,18,40,20.43,21.14,100,3.68,Clear,0.0
+2023-09-16,Litomyšl,19,0,20.43,21.14,100,3.68,Clear,0.0
+2023-09-16,Litomyšl,19,20,20.43,21.14,100,3.68,Clear,0.0
+2023-09-16,Litomyšl,19,40,18.77,19.31,100,3.67,Clear,0.0
 2023-09-17,Litomyšl,8,0,15.4,15.61,100,3.19,Clouds,0.0
 2023-09-17,Litomyšl,8,20,15.4,15.61,100,3.19,Clouds,0.0
 2023-09-17,Litomyšl,8,40,16.78,17.12,100,3.81,Clouds,0.0
@@ -593,6 +644,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-09-17,Litomyšl,18,0,23.3,24.3,100,0.93,Clouds,0.0
 2023-09-17,Litomyšl,18,20,23.3,24.3,100,0.93,Clouds,0.0
 2023-09-17,Litomyšl,18,40,20.29,20.99,100,2.28,Clouds,0.0
+2023-09-17,Litomyšl,19,0,20.29,20.99,100,2.28,Clouds,0.0
+2023-09-17,Litomyšl,19,20,20.29,20.99,100,2.28,Clouds,0.0
+2023-09-17,Litomyšl,19,40,18.73,19.27,100,2.07,Clouds,0.0
 2023-10-14,Vodňany,8,0,15.5,14.83,66,5.17,Clouds,0.0
 2023-10-14,Vodňany,8,20,15.5,14.83,66,5.17,Clouds,0.0
 2023-10-14,Vodňany,8,40,17.02,16.42,63,6.09,Clouds,0.0
@@ -626,6 +680,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-10-14,Vodňany,18,0,15.13,14.97,87,2.58,Rain,0.59
 2023-10-14,Vodňany,18,20,15.13,14.97,87,2.58,Rain,0.59
 2023-10-14,Vodňany,18,40,14.05,13.63,81,3.97,Rain,0.66
+2023-10-14,Vodňany,19,0,14.05,13.63,81,3.97,Rain,0.66
+2023-10-14,Vodňany,19,20,14.05,13.63,81,3.97,Rain,0.66
+2023-10-14,Vodňany,19,40,12.87,12.33,81,3.93,Rain,0.59
 2023-10-15,Vodňany,8,0,6.63,4.28,81,3.28,Clouds,0.0
 2023-10-15,Vodňany,8,20,6.63,4.28,81,3.28,Clouds,0.0
 2023-10-15,Vodňany,8,40,7.31,5.21,81,3.11,Rain,0.21
@@ -659,6 +716,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-10-15,Vodňany,18,0,6.05,2.72,70,4.85,Rain,0.37
 2023-10-15,Vodňany,18,20,6.05,2.72,70,4.85,Rain,0.37
 2023-10-15,Vodňany,18,40,5.08,1.99,75,3.94,Rain,0.15
+2023-10-15,Vodňany,19,0,5.08,1.99,75,3.94,Rain,0.15
+2023-10-15,Vodňany,19,20,5.08,1.99,75,3.94,Rain,0.15
+2023-10-15,Vodňany,19,40,4.76,1.58,80,3.98,Clouds,0.0
 2023-07-29,Tápiószentmárton,8,0,22.64,23.13,83,0.81,Clouds,0.0
 2023-07-29,Tápiószentmárton,8,20,22.8,23.22,80,0.81,Clouds,0.0
 2023-07-29,Tápiószentmárton,8,40,24.99,25.42,72,1.32,Clouds,0.0
@@ -692,6 +752,9 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-07-29,Tápiószentmárton,18,0,29.91,30.33,46,3.53,Clouds,0.0
 2023-07-29,Tápiószentmárton,18,20,30.06,30.39,45,0.45,Clouds,0.0
 2023-07-29,Tápiószentmárton,18,40,29.0,29.31,47,2.78,Clouds,0.0
+2023-07-29,Tápiószentmárton,19,0,28.7,29.87,55,2.78,Clouds,0.0
+2023-07-29,Tápiószentmárton,19,20,28.94,29.02,45,2.78,Clouds,0.0
+2023-07-29,Tápiószentmárton,19,40,26.45,26.45,68,2.16,Clouds,0.0
 2023-07-30,Tápiószentmárton,8,0,22.49,22.99,84,1.68,Clouds,0.0
 2023-07-30,Tápiószentmárton,8,20,22.64,23.05,80,1.68,Clouds,0.0
 2023-07-30,Tápiószentmárton,8,40,23.68,24.11,77,1.59,Rain,0.44
@@ -725,3 +788,6 @@ date,city,hour,minute,temperature,feels_like,humidity,wind_speed,weather,rain
 2023-07-30,Tápiószentmárton,18,0,23.92,24.22,71,0.45,Clouds,0.0
 2023-07-30,Tápiószentmárton,18,20,24.07,24.18,63,0.89,Clouds,0.0
 2023-07-30,Tápiószentmárton,18,40,23.64,23.86,69,0.45,Clouds,0.0
+2023-07-30,Tápiószentmárton,19,0,23.57,23.86,72,0.45,Clouds,0.0
+2023-07-30,Tápiószentmárton,19,20,23.42,23.8,76,1.92,Clouds,0.0
+2023-07-30,Tápiószentmárton,19,40,22.62,23.03,80,1.35,Clouds,0.0
