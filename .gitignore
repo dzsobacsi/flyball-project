@@ -30,4 +30,4 @@ env/
 
 # Miscellaneous
 .DS_Store
-*.pdf
+rules/
